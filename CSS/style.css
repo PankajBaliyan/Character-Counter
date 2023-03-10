@@ -1,9 +1,10 @@
-*{
-	margin:0px;
+* {
+	margin: 0px;
 	padding: 0px;
 	box-sizing: border-box;
 }
-body{
+
+body {
 	height: 100vh;
 	background-color: #4b70fb;
 	display: flex;
@@ -12,68 +13,84 @@ body{
 	flex-direction: column;
 	font-family: Trebuchet MS;
 }
-textarea{
+
+textarea {
 	width: 60%;
 	border-radius: 5px;
 	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  padding: 10px;
-  font-size: 20px;
+	padding: 10px;
+	font-size: 20px;
 	margin: 10px;
 }
-h2{
+
+h2 {
 	color: white;
 	margin-bottom: 5px;
 }
-h3{
+
+h3 {
 	color: white;
 	margin-top: 5px;
 }
+
 .alerts-border {
-    outline: 5px #ff0000 solid;
-    animation: blink 0.5s;
-		animation-iteration-count:infinite;
+	outline: 5px #ff0000 solid;
+	animation: blink 0.5s;
+	animation-iteration-count: infinite;
 }
 
-@keyframes blink { 
-	50% { 
+@keyframes blink {
+	50% {
 		outline-color: transparent;
-	}  
+	}
 }
 
 .highlighted {
-  background-color: yellow;
+	background-color: yellow;
 }
 
 /* Style for all buttons */
 button {
-  border: none;
-  cursor: pointer;
-  font-size: 16px;
-  padding: 8px 16px;
-  border-radius: 4px;
-  font-weight: bold;
+	border: none;
+	cursor: pointer;
+	font-size: 16px;
+	padding: 8px 16px;
+	border-radius: 4px;
+	font-weight: bold;
 }
 
 /* Style for save button */
 #save-button {
-  background-color: #4CAF50;
-  color: white;
+	background-color: #4CAF50;
+	color: white;
 }
 
 /* Style for retrieve button */
 #retrieve-button {
-  background-color: #2196F3;
-  color: white;
+	background-color: #2196F3;
+	color: white;
 }
 
 /* Style for clear button */
 #clear-button {
-  background-color: #f44336;
-  color: white;
+	background-color: #f44336;
+	color: white;
 }
 
 /* Style for share button */
 #share-button {
-  background-color: #FF9800;
-  color: white;
+	background-color: #FF9800;
+	color: white;
+}
+
+#copy-button {
+	padding: 10px;
+	border: none;
+	background-color: #4CAF50;
+	color: white;
+	cursor: pointer;
+}
+
+#copy-button:hover {
+	background-color: #3e8e41;
 }

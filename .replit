@@ -111,7 +111,7 @@ start = "vscode-css-language-server --stdio"
       [languages.css.languageServer.configuration.scss.hover]
       documentation = true
       references = true
-    
+
       [languages.css.languageServer.configuration.scss.lint]
       # Configure linting
       # ignore = don't show any warning or error

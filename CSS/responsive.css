@@ -1,0 +1,37 @@
+/* MOBILE DEVICES  */
+@media (min-width:320px) and (max-width:768px) {
+    body {
+        justify-content: flex-start;
+        margin-top: 20px;
+    }
+
+    textarea {
+        width: 90%;
+    }
+
+    div {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-column-gap: 10px;
+        grid-row-gap: 10px;
+    }
+}
+
+/* TABLET DEVICES  */
+@media (min-width:481px) and (max-width:768px) {
+    textarea {
+        width: 70%;
+    }
+}
+
+/* LAPTOP DEVICES  */
+@media (min-width:769px) and (max-width:1023px) {}
+
+/* DESKTOP DEVICES  */
+@media (min-width:1024px) and (max-width:1200px) {}
+
+@media (min-width:1114px) {}
+
+/* TV/EXTRA LARGE DEVICES  */
+@media (min-width:1201px) {}

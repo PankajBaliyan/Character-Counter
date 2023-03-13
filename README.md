@@ -56,13 +56,12 @@ If you have any feedback, please reach out to us at pankajbaliyan90@gmail.com
 
 
 ## 🔗 Links
-<div style="display:flex; justify-content: space-between">
 
-[<img src="https://www.edigitalagency.com.au/wp-content/uploads/linkedin-logo-gif-funny-man-suitcase.gif" width="150" style="background-color:white;padding:5px;border-radius:5px">](https://www.linkedin.com/in/pankaj-kumar-90/)
+[<img src="https://www.moirae.co.uk/media/rr1bnphw/linkedin-photo.jpg?anchor=center&mode=crop&width=1060&height=607&rnd=133041730111100000" width="150" style="background-color:white;padding:5px;border-radius:5px">](https://www.linkedin.com/in/pankaj-kumar-90/)
 
-[<img src="https://static.wixstatic.com/media/b83005_809e60f5dae943ddb60598d5d8343100~mv2.gif" width="150" style="background-color:white;padding:5px;border-radius:5px">](https://codewithpankaj.vercel.app)
+<br>
 
-</div>
+[<img src="https://www.seekpng.com/png/detail/111-1112824_picture-my-portfolio-logo-png.png" width="150" style="background-color:white;padding:5px;border-radius:5px">](https://codewithpankaj.vercel.app)
 
 ## Lessons Learned
 

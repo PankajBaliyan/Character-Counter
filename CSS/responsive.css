@@ -24,14 +24,3 @@
         width: 70%;
     }
 }
-
-/* LAPTOP DEVICES  */
-@media (min-width:769px) and (max-width:1023px) {}
-
-/* DESKTOP DEVICES  */
-@media (min-width:1024px) and (max-width:1200px) {}
-
-@media (min-width:1114px) {}
-
-/* TV/EXTRA LARGE DEVICES  */
-@media (min-width:1201px) {}
